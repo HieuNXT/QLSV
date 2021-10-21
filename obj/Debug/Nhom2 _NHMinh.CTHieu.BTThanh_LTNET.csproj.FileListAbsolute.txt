@@ -1,0 +1,21 @@
+H:\Documents\Visual Studio 2019\Project\ThiTN\bin\Debug\ThiTN.exe.config
+H:\Documents\Visual Studio 2019\Project\ThiTN\bin\Debug\ThiTN.exe.manifest
+H:\Documents\Visual Studio 2019\Project\ThiTN\bin\Debug\ThiTN.application
+H:\Documents\Visual Studio 2019\Project\ThiTN\bin\Debug\ThiTN.exe
+H:\Documents\Visual Studio 2019\Project\ThiTN\bin\Debug\ThiTN.pdb
+H:\Documents\Visual Studio 2019\Project\ThiTN\bin\Debug\SautinSoft.Document.dll
+H:\Documents\Visual Studio 2019\Project\ThiTN\bin\Debug\SautinSoft.Document.xml
+H:\Documents\Visual Studio 2019\Project\ThiTN\obj\Debug\Nhom2 _NHMinh.CTHieu.BTThanh_LTNET.csprojAssemblyReference.cache
+H:\Documents\Visual Studio 2019\Project\ThiTN\obj\Debug\Nhom2 _NHMinh.CTHieu.BTThanh_LTNET.csproj.ResolveComReference.cache
+H:\Documents\Visual Studio 2019\Project\ThiTN\obj\Debug\ThiTN.Nhom2_ChangePass.resources
+H:\Documents\Visual Studio 2019\Project\ThiTN\obj\Debug\ThiTN.Nhom2_Help.resources
+H:\Documents\Visual Studio 2019\Project\ThiTN\obj\Debug\ThiTN.Nhom2_Login.resources
+H:\Documents\Visual Studio 2019\Project\ThiTN\obj\Debug\ThiTN.Nhom2_MainUI.resources
+H:\Documents\Visual Studio 2019\Project\ThiTN\obj\Debug\ThiTN.Properties.Resources.resources
+H:\Documents\Visual Studio 2019\Project\ThiTN\obj\Debug\Nhom2 _NHMinh.CTHieu.BTThanh_LTNET.csproj.GenerateResource.cache
+H:\Documents\Visual Studio 2019\Project\ThiTN\obj\Debug\Nhom2 _NHMinh.CTHieu.BTThanh_LTNET.csproj.CoreCompileInputs.cache
+H:\Documents\Visual Studio 2019\Project\ThiTN\obj\Debug\ThiTN.exe.manifest
+H:\Documents\Visual Studio 2019\Project\ThiTN\obj\Debug\ThiTN.application
+H:\Documents\Visual Studio 2019\Project\ThiTN\obj\Debug\Nhom2 _NHMinh.CTHieu.BTThanh_LTNET.csproj.CopyComplete
+H:\Documents\Visual Studio 2019\Project\ThiTN\obj\Debug\ThiTN.exe
+H:\Documents\Visual Studio 2019\Project\ThiTN\obj\Debug\ThiTN.pdb
